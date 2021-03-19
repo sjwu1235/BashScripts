@@ -10,11 +10,11 @@ Exercise_3.sh - Given a folder called test_pics inside the folder containing the
 Ensure that for Exercise_3.sh, there is a test_pics folder. If you choose to name the folder something else, please edit the variable in the shell script to reference this folder name.
 To rum the scripts, download and run on command line within directory of script:
 
-  chmod u+x <shellsciptname>.sh
+  chmod u+x shellsciptname.sh
 
 This will modify the shell script to be an executable.
 
-  ./<shellscriptname>.sh
+  ./shellscriptname.sh
   
 This line will make the shell script run.
 
